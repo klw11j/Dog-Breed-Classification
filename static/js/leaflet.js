@@ -25,7 +25,7 @@ var shelter4 = L.marker([27.959260, -81.957490]).addTo(map);
 shelter4.bindPopup("SPCA Florida Adoption Center")
 
 var shelter5 = L.marker([28.39793, -80.70556]).addTo(map);
-shelter5.bindPopup("Brevard Humane Society")
+shelter5.bindPopup("Brevard Humane Society" + "155 Pioneer Road, Merritt Island, FL 32953" + "321-636-3343")
 
 var shelter6 = L.marker([28.75660, -81.73622]).addTo(map);
 shelter6.bindPopup("Lake County Animal Shelter")
