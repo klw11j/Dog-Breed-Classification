@@ -229,7 +229,7 @@ def aboutproject():
 
 @app.route('/adopt')
 def adopt():
-    return render_template("adopt.html")
+    return render_template("map.html")
 
 
 if __name__ == "__main__":
